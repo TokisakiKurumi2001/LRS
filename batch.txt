@@ -1,0 +1,5 @@
+{'label': tensor([1, 0], dtype=torch.int32), 'sequence': tensor([[1, 1, 2, 2, 3, 3],
+        [3, 3, 2, 2, 1, 1]], dtype=torch.int32)}
+tensor([[-0.7339,  0.3343],
+        [-1.2038, -0.0088]], grad_fn=<AddmmBackward0>)
+tensor(0.8774, grad_fn=<NllLossBackward0>)
